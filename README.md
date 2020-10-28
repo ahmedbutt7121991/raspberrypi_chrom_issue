@@ -12,3 +12,6 @@ log.txt
 
 ### --> AUTO BROWSER START
 autostart (/etc/xdg/lxsession/LXDE-pi/autostart) OR (.config/lxsession/LXDE-pi/autostart)
+
+# URL for understanding the issue
+## http://martinpennock.com/blog/disable-restore-session-bubble-chromium-raspberry-pi/
